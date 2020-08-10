@@ -1,0 +1,12 @@
+c:\users\root\documents\visual studio 2015\Projects\test_sms\test_sms\bin\test_sms.dll.config
+c:\users\root\documents\visual studio 2015\Projects\test_sms\test_sms\bin\test_sms.dll
+c:\users\root\documents\visual studio 2015\Projects\test_sms\test_sms\bin\test_sms.pdb
+c:\users\root\documents\visual studio 2015\Projects\test_sms\test_sms\obj\Debug\test_sms.csprojResolveAssemblyReference.cache
+c:\users\root\documents\visual studio 2015\Projects\test_sms\test_sms\obj\Debug\test_sms.dll
+c:\users\root\documents\visual studio 2015\Projects\test_sms\test_sms\obj\Debug\test_sms.pdb
+C:\Users\root\Downloads\asp.net_C(sharp)\test_sms\test_sms\bin\test_sms.dll.config
+C:\Users\root\Downloads\asp.net_C(sharp)\test_sms\test_sms\bin\test_sms.dll
+C:\Users\root\Downloads\asp.net_C(sharp)\test_sms\test_sms\bin\test_sms.pdb
+C:\Users\root\Downloads\asp.net_C(sharp)\test_sms\test_sms\obj\Debug\test_sms.csprojResolveAssemblyReference.cache
+C:\Users\root\Downloads\asp.net_C(sharp)\test_sms\test_sms\obj\Debug\test_sms.dll
+C:\Users\root\Downloads\asp.net_C(sharp)\test_sms\test_sms\obj\Debug\test_sms.pdb
